@@ -1,0 +1,3 @@
+#!/bin/sh
+docker build -t farawayjams/MyONBUILD:latest .
+docker push farawayjams/MyONBUILD:latest
