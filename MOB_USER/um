@@ -1,0 +1,3 @@
+#!/bin/sh
+docker build -t farawayjams/MOB_USER:latest .
+docker push farawayjams/MOB_USER:latest
